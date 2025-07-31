@@ -7,10 +7,10 @@ A simple **Rock-Paper-Scissors** game built using **HTML, CSS, and JavaScript**.
 
 ## 📁 Project Structure
 
-rock-paper-scissors/
-├── index.html # Main HTML file
-├── styles.css # Styling
-└── app.js # Game logic
+```rock-paper-scissors/```
+```├── index.html # Main HTML file```
+```├── styles.css # Styling```
+```└── app.js # Game logic```
 
 
 ---
@@ -26,11 +26,6 @@ rock-paper-scissors/
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots or gameplay GIFs here if you'd like)*
-
----
 
 ## 🛠️ Technologies Used
 
@@ -47,11 +42,6 @@ rock-paper-scissors/
 - Instant win/lose/draw result display
 - Responsive design (optional)
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
